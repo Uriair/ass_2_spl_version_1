@@ -1,4 +1,4 @@
-package main.java.bgu.spl.mics.example.messages;
+package bgu.spl.mics.example.messages;
 
 import bgu.spl.mics.Broadcast;
 

@@ -36,8 +36,8 @@ public class ExampleEventHandlerService extends MicroService {
             if (mbt == 0) {
                 System.out.println("Event Handler " + getName() + " terminating.");
                 terminate();
-            }
-        });
+            }            
+        });        
     }
 
 }
